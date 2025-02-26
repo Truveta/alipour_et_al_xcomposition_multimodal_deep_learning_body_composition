@@ -1,0 +1,8 @@
+name: xcomp
+dependencies:
+  - scikit-learn
+  - pytorch
+  - numpy
+  - captum
+  - torchvision
+  - pydicom
